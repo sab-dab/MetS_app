@@ -14,6 +14,3 @@ Open the project in RStudio and run:
 ```r
 source("MetS2.R")
 
-## Note
-
-The dataset used to train the model is not included in this repository.
